@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;
+using namespace std; 
 
 // Implement the node class we will need for our Binary Search Tree
 class Node {
